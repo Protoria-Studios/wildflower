@@ -1,6 +1,6 @@
 # wildflower
 
-script for fast video-to-image-sequence for photogrammetry pipelines. used in a variety of projects including video games, assets, etc.
+Script for fast video-to-image-sequence for photogrammetry pipelines. Used in a variety of projects including video games, assets, etc. Also for marketing media assets.
 
 ![img](blender_oJzvps2R04.gif)
 
