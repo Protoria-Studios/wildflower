@@ -8,11 +8,11 @@ Mobile phone video -> *wildflower* output -> [Meshroom](https://github.com/alice
 
 To be clear: this script just turns video into a folder of images, it does not **do** the photogrammetry. Results may depend on your understanding of what photogrammetry images need to be useful. The script is still more handy than some GUI/webtool options. 3 seconds of terminal and then a few sips of coffee later your output folder is opened for you.
 
-## install and use
+## Install and use
 
 Requires `cv2` (`pip install cv2`)
 
-Run: `python wildflower.py <input file> <output folder> <steps>`
+Download the code and run: `python wildflower.py <input file> <output folder> <steps>`
 
 ---
 
